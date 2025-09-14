@@ -31,12 +31,9 @@ Every DMM game has a unique ID. You can find it by:
 2. Go to `Games` > `Add a Non-Steam Game to My Library`
 3. Click `Browse` and select the downloaded `DMMGameLaunch.exe`
 4. After adding it, right-click the game in your library → `Properties`
-5. Under **Launch Options**, add the following:
-`-game umamusume`
-
-Replace `umamusume` with the game ID you want to launch
-
-6. Rename the shortcut to match your game’s title
+5. Under **Launch Options**, add the following: `-game umamusume`
+6. Replace `umamusume` with the game ID you want to launch
+7. Rename the shortcut to match your game’s title
 
 ---
 
