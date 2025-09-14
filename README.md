@@ -12,7 +12,7 @@ Extract the archive file and look for `DMMGameLaunch.exe`.
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Use on Steam
 
 ### 1. Get Your DMM Game ID
 
@@ -40,7 +40,7 @@ Replace `umamusume` with the game ID you want to launch
 
 ---
 
-### ✅ Example
+### ✅ How to Use on Command Prompt
 
 ```cmd
 "C:\Tools\DMMGameLaunch.exe" -game umamusume
