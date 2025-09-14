@@ -40,7 +40,7 @@ Every DMM game has a unique ID. You can find it by:
 ### ✅ How to Use on Command Prompt
 
 ```cmd
-"C:\Tools\DMMGameLaunch.exe" -game umamusume
+"C:\DMMGameLaunch\DMMGameLaunch.exe" -game umamusume
 
 This will launch:
 dmmgameplayer://play/GCL/umamusume/cl/win
