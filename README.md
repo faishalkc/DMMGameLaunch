@@ -20,8 +20,8 @@ Every DMM game has a unique ID. You can find it by:
 
 - Checking the launch link from DMM Game Player or site
 - Example:  
-`dmmgameplayer://play/GCL/851539/cl/win`
-→ **Game ID is `851539`**
+`dmmgameplayer://play/GCL/umamusume/cl/win`
+→ **Game ID is `umamusume`**
 
 ---
 
@@ -29,7 +29,7 @@ Every DMM game has a unique ID. You can find it by:
 
 1. Open **Steam**
 2. Go to `Games` > `Add a Non-Steam Game to My Library`
-3. Click `Browse` and select the downloaded `launch_dmm_game.exe`
+3. Click `Browse` and select the downloaded `DMMGameLaunch.exe`
 4. After adding it, right-click the game in your library → `Properties`
 5. Under **Launch Options**, add the following:
 `-game umamusume`
