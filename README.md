@@ -1,6 +1,6 @@
 # 🎮 DMM Game Launch
 
-This lightweight program lets you run DMM games directly from **Steam**. This program simply pass a DMM game ID to `dmmgameplayer://` protocol using the official **DMM Game Player**.
+This lightweight program lets you run DMM games directly from **Steam** (or maybe another case). Simply by passing a DMM game ID to `dmmgameplayer://` protocol using the official **DMM Game Player**.
 
 ---
 
